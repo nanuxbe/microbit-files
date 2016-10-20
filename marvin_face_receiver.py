@@ -56,4 +56,6 @@ while True:
         data = message.split(":")
         if data[0] == "say":
             speak(data[1], data[2] if len(data) > 2 else None)
+        else:
+            print(message)
     display.show(Image.HAPPY)

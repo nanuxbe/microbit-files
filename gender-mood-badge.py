@@ -6,6 +6,7 @@ GENDERS = [
     Image('02720:07070:02720:07770:00700'),  # Female
     Image('00171:00777:27272:70700:27200'),  # Non-binary rotated
     Image('09090:00700:08680:06060:02620'),  # Non-binary
+    Image('07970:70907:97979:70907:07970'),  # Intersex
     Image.HEART,
     Image.HAPPY,
     Image.SAD,

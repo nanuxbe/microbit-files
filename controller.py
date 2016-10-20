@@ -62,3 +62,4 @@ while True:
     else:
         display.show(ARROWS[value])
         radio.send("move:{}".format(value))
+        sleep(150)
